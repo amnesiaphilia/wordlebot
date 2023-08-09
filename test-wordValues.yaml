@@ -1,0 +1,36 @@
+aback:
+  '0': 140
+  '1': 16
+  '2': 306
+  '3': 150
+  '4': 113
+  positionalScore: 725
+  score: 1939
+  totalScore: 2664
+abase:
+  '0': 140
+  '1': 16
+  '2': 306
+  '3': 170
+  '4': 421
+  positionalScore: 1053
+  score: 3150
+  totalScore: 4203
+abate:
+  '0': 140
+  '1': 16
+  '2': 306
+  '3': 139
+  '4': 421
+  positionalScore: 1022
+  score: 3212
+  totalScore: 4234
+abbey:
+  '0': 140
+  '1': 16
+  '2': 56
+  '3': 318
+  '4': 364
+  positionalScore: 894
+  score: 2907
+  totalScore: 3801
